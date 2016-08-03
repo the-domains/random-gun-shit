@@ -1,18 +1,18 @@
-typography_spectrum: 0.737750738626346
+typography_spectrum: 0.41077467636205256
 content_rating:
   adult: true
 color:
-  brandStrength: 0.682315104175359
-  lightness: 0.2885366235859692
-  saturation: 0.3555379710160196
-  rhythmicContrast: 0.281402689171955
+  brandStrength: 0.28974886098876595
+  lightness: 0.014998865546658635
+  saturation: 0.2436028989031911
+  rhythmicContrast: 0.9554222242441028
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.3651068506296724
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.6103458765428513
 analytics:
   google: UA-39446379-2
 name: Random Gun Shit
