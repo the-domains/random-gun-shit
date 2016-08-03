@@ -1,5 +1,6 @@
-layout_spectrum: 0.3651068506296724
 typography_spectrum: 0.737750738626346
+content_rating:
+  adult: true
 color:
   brandStrength: 0.682315104175359
   lightness: 0.2885366235859692
@@ -11,4 +12,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.3651068506296724
 name: Random Gun Shit
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/17cac6f0-a93e-438c-ab45-7de0771cef48.jpg
