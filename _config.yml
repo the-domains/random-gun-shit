@@ -13,6 +13,8 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.3651068506296724
+analytics:
+  google: UA-39446379-2
 name: Random Gun Shit
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/17cac6f0-a93e-438c-ab45-7de0771cef48.jpg
