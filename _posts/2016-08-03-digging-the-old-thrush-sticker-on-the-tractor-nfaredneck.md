@@ -1,22 +1,22 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
+datePublished: '2016-08-04T04:56:49.917Z'
+sourcePath: _posts/2016-08-03-digging-the-old-thrush-sticker-on-the-tractor-nfaredneck.md
+inFeed: true
 isBasedOnUrl: 'https://www.instagram.com/p/BIoHrXtAJRv/'
-title: >-
-  Digging the old Thrush sticker on the tractor. #NFAredneck #thrush #kentucky
-  #redneck #suppressor #nfa #tractor #phoenixweaponry #lyfe #gun #guns #silencer
-datePublished: '2016-08-03T16:02:54.915Z'
-dateModified: '2016-08-03T16:02:53.978Z'
-publisher: {}
 author:
   - name: phoenix_weaponry
     url: 'https://www.instagram.com/phoenix_weaponry'
     avatar: {}
-inFeed: true
-description: ''
+at__type: Article
 via: {}
+dateModified: '2016-08-04T04:56:49.510Z'
+title: ''
+publisher: {}
+at__context: 'http://schema.org'
+description: >-
+  Digging the old Thrush sticker on the tractor. #NFAredneck #thrush #kentucky
+  #redneck #suppressor #nfa #tractor #phoenixweaponry #lyfe #gun #guns #silencer
 starred: false
-sourcePath: _posts/2016-08-03-digging-the-old-thrush-sticker-on-the-tractor-nfaredneck.md
 _type: MediaObject
 
 ---
